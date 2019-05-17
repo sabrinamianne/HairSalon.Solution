@@ -1,4 +1,4 @@
-#_Epicodus Code Review C# Week 7 Hair Salon_
+#_Epicodus Code Review C# Week 8 Hair Salon_
 
 #### _Create an MVC web application for a hair salon. The owner should be able to add a list of the stylists, and for each stylist, add clients who see that stylist. The stylists work independently, so each client only belongs to a single stylist, 05.10.2019_
 
